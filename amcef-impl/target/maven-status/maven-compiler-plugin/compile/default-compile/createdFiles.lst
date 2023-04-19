@@ -1,0 +1,11 @@
+com\amcef\AmcefApplication.class
+com\amcef\client\JsonPlaceholderApiClient.class
+com\amcef\mapper\MapperImpl.class
+com\amcef\repository\PostsRepository.class
+com\amcef\controller\PostsController.class
+com\amcef\mapper\Mapper.class
+com\amcef\client\JsonPlaceholderApiClient$1.class
+com\amcef\client\ExtPostsDto.class
+com\amcef\service\PostsService.class
+com\amcef\entity\Post.class
+com\amcef\entity\QPost.class
