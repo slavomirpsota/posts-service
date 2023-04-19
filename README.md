@@ -1,4 +1,4 @@
-# Address Regex Parser
+# Posts service
 
 I made this as a fun project
 
